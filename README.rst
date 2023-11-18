@@ -18,7 +18,8 @@ This project is licensed under the MIT License.
 
 Links
 -----
-
+* `Download <https://pypi.org/project/lib-dzne-overload/#files>`_
+* `Source <https://github.com/johannes-programming/lib_dzne_overload>`_
 
 Credits
 -------
